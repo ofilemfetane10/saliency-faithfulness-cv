@@ -65,7 +65,7 @@ These results indicate that some saliency methods are largely insensitive to lea
 
 In high-stakes domains such as healthcare, surveillance, and autonomous systems, explanations are increasingly used to justify trust. If explanations can look meaningful without reflecting true reasoning, explainability risks becoming performative rather than protective.
 
-Visual explanations should be treated as hypotheses, not ground truth, and must be evaluated with the same rigor as predictive performance.
+Visual explanations should be treated as hypotheses, not ground truth, and must be evaluated with the same rigor as predictive performance!
 
 ---
 
